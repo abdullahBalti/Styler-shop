@@ -119,7 +119,7 @@ margin-right: 20px;
   margin-top: 10px;
 }
 .slide-1 {
-  background-image: url("../../images/slider-2-01-1.jpg");
+  background-image: url("./images/slider-2-01-1.jpg");
   background-size: cover;
   grid-area: a;
   text-align: center;
@@ -156,7 +156,7 @@ margin-right: 20px;
 }
 
 .slide-2 {
-  background-image: url("../../images/banner-04-1.jpg");
+  background-image: url("./images/banner-04-1.jpg");
   background-size: cover;
   grid-area: b;
   display: flex;
@@ -173,7 +173,7 @@ margin-right: 20px;
   text-transform: uppercase;
 }
 .slide-3 {
-  background-image: url("../../images/banner-05-1.jpg");
+  background-image: url("./images/banner-05-1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   grid-area: c;
@@ -214,7 +214,7 @@ margin-right: 20px;
   text-transform: uppercase;
 }
 .se {
-  background-image: url("../../images/banner-07-1.jpg");
+  background-image: url("./images/banner-07-1.jpg");
   background-size: cover;
   height: 250px;
   display: flex;
@@ -233,7 +233,7 @@ margin-right: 20px;
   color: #ffff;
 }
 .th {
-  background-image: url("../../images/banner-08-1.jpg");
+  background-image: url("./images/banner-08-1.jpg");
   background-size: cover;
   height: 250px;
    display: flex;
@@ -320,7 +320,7 @@ margin-right: 20px;
 .deal-one {
   width: 100%;
   height: 360px;
-  background-image: url("../../images/deal-of-day-2.jpg");
+  background-image: url("./images/deal-of-day-2.jpg");
   background-size: cover;
   display: flex;
   flex-direction: column;
@@ -344,7 +344,7 @@ margin-right: 20px;
 .deal-tow {
   width: 100%;
   height: 360px;
-  background-image: url("../../images/deal-of-day-1.jpg");
+  background-image: url("./images/deal-of-day-1.jpg");
   background-size: cover;
   display: flex;
   flex-direction: column;
